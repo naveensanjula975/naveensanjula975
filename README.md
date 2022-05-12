@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/#" target="blank"><img src="https://img.shields.io/twitter/follow/#?logo=twitter&style=for-the-badge" alt="#" /></a> </p>
 
-- 🔭 I’m currently working on [project-name](project-link)
+<!-- - 🔭 I’m currently working on [project-name](project-link) -->
 
-- 👯 I’m looking to collaborate on [project-name](project-link)
+<!-- - 👯 I’m looking to collaborate on [project-name](project-link) -->
 
-- 🤝 I’m looking for help with [project-name](project-link)
+<!-- - 🤝 I’m looking for help with [project-name](project-link) -->
 
-- 👨‍💻 All of my projects are available at [portfolio-link](portfolio-link)
+- 👨‍💻 All of my projects are available at [portfolio-link](https://github.com/naveensanjula975)
 
-- 📝 I regularly write articles on [blog-link](blog-link)
+<!-- - 📝 I regularly write articles on [blog-link](blog-link) -->
 
-- 📫 How to reach me **gmail**
+<!-- - 📫 How to reach me **gmail** -->
 
-- 📄 Know about my experiences [resume-link](resume-link)
+<!-- - 📄 Know about my experiences [resume-link](resume-link) -->
 
 - ⚡ Fun fact **i-think-i-am-funny**
 
