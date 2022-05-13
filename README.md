@@ -13,7 +13,7 @@
 
 <!-- - 🤝 I’m looking for help with [project-name](project-link) -->
 
-- 👨‍💻 All of my projects are available at [portfolio-link](https://github.com/naveensanjula975)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/naveensanjula975?tab=repositories)
 
 <!-- - 📝 I regularly write articles on [blog-link](blog-link) -->
 
