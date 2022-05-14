@@ -9,7 +9,7 @@
 
 
 
-<!-- - 📄 Know about my experiences [resume-link](resume-link) -->
+
 
 - ⚡ Fun fact **i-think-i-am-funny**
 
