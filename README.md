@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensanjula975&label=Profile%20views&color=0e75b6&style=flat" alt="naveensanjula975" /> </p>
 
 
-<!-- - 🤝 I’m looking for help with [project-name](project-link) -->
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/naveensanjula975?tab=repositories)
 
