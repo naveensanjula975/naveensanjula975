@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/naveensanjula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>  
 <a href="https://t.me/naveen_sanjula" target="blank"><img align="center" src="https://www.svgrepo.com/show/299513/telegram.svg" alt="#" height="30" width="40" /></a>
 <a href="https://dev.to/naveensanjula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/naveensanjula/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Reddit/Reddit-Logomark-Color-Logo.wine.svg" alt="#" height="40" width="40" /></a> 
+<a href="https://www.reddit.com/user/naveensanjula/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Reddit/Reddit-Logomark-Color-Logo.wine.svg" alt="#" height="50" width="50" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
