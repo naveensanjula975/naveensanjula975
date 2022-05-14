@@ -7,10 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/naveensanjula975?tab=repositories)
 
-
-
-
-
 - ⚡ Fun fact **i-think-i-am-funny**
 
 <h3 align="left">Connect with me:</h3>
