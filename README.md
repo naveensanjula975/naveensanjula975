@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/naveensanjula975?tab=repositories)
 
-<!-- - 📝 I regularly write articles on [blog-link](blog-link) -->
 
 <!-- - 📫 How to reach me **gmail** -->
 
