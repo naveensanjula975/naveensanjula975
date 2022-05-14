@@ -8,7 +8,6 @@
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/naveensanjula975?tab=repositories)
 
 
-<!-- - 📫 How to reach me **gmail** -->
 
 <!-- - 📄 Know about my experiences [resume-link](resume-link) -->
 
