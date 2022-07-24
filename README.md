@@ -64,7 +64,18 @@ I'm <strong>Naveen Sanjula</strong>
 <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a> -->
 <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> -->
 
+**🐱 My GitHub Data** 
 
+> 🏆 58 Contributions in the Year 2022
+ > 
+> 📦 0 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 20 Private Repositories  
+ > 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
