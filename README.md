@@ -72,9 +72,9 @@ I'm <strong>Naveen Sanjula</strong>
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 32 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 26 Private Repositories  
  > 
 
 <h3 align="left">Connect with me:</h3>
