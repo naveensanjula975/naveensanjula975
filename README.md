@@ -18,16 +18,16 @@ I'm <strong>Naveen Sanjula</strong>
 <!-- ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
-🔴 <strong>Frameworks</strong>
+<!-- 🔴 <strong>Frameworks</strong>
 
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
 
-🔴 <strong>Libraries</strong>
+<!-- 🔴 <strong>Libraries</strong>
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<!-- ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
 
 <!--🔴 <strong>Databases</strong>
 
