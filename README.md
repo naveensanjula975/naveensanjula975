@@ -1,6 +1,7 @@
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
-I'm <strong>Naveen Sanjula</strong>
-<!-- <h3 align="center">A passionate developer from Sri Lanka</h3> -->
+I'm **Naveen Sanjula**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADD8&width=600&lines=💻+Full+Stack+Developer;🎨+UI%2FUX+Designer;📈+Algorithmic+Trading+Enthusiast)](https://git.io/typing-svg)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/naveensanjula20?label=Follow)](https://twitter.com/intent/follow?screen_name=naveensanjula20)
 [![Linkedin: Naveen Sanjula](https://img.shields.io/badge/-Naveen_Sanjula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveensanjula/)](http://www.linkedin.com/in/naveensanjula/)
@@ -45,26 +46,27 @@ I'm <strong>Naveen Sanjula</strong>
 <!-- ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white) -->
 
 
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Golang
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/naveensanjula975?tab=repositories)
-- ⚡ Fun fact **i-think-i-am-funny**
+- 👀 Passionate about **Technology & Innovation**
+- 🌱 Currently learning **Golang**
+- 👨‍💻 Explore all my work in [Repositories](https://github.com/naveensanjula975?tab=repositories)
+- ⚡ Fun fact — **I think I’m funny 😄**
 
 
-### Languages and Tools I Love💙
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
-[<img align="left" alt="HTML" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />](https://html.com/)
-[<img align="left" alt="CSS" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />](https://en.wikipedia.org/wiki/CSS)
-[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.javascript.com/)
-[<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />](https://golang.org/)
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/)
-<!-- [<img align="left" alt="csharp" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/) -->
-<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/) -->
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
-[<img align="left" alt="kali" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" />](https://www.kali.org/)
-[<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
+### Languages and Tools I Love 💙
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
+[<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://www.python.org/)
+[<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://developer.mozilla.org/docs/Web/HTML)
+[<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://developer.mozilla.org/docs/Web/CSS)
+[<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/docs/Web/JavaScript)
+[<img align="left" alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />](https://go.dev/)
+[<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />](https://www.kernel.org/)
+[<img align="left" alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />](https://github.com/)
+[<img align="left" alt="Heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />](https://www.heroku.com/)
+[<img align="left" alt="Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />](https://azure.microsoft.com/)
+[<img align="left" alt="Google Cloud" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />](https://cloud.google.com/)
+[<img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />](https://www.docker.com/)
+<br clear="left"/>
+
 <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a> -->
 <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> -->
 
@@ -87,8 +89,31 @@ I'm <strong>Naveen Sanjula</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/naveensanjula20" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/naveensanjula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>  
-<a href="https://t.me/naveen_sanjula" target="blank"><img align="center" src="https://www.svgrepo.com/show/299513/telegram.svg" alt="#" height="30" width="40" /></a>
-<a href="mailto:naveensanjula15@gmail.com"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+  <!-- X / Twitter -->
+  <a href="https://x.com/naveensanjula20" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X (Twitter)" height="40" width="40" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/naveensanjula" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/naveen_sanjula" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="40" width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:naveensanjula15@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
+  </a>
 </p>
+
+
+
+
+
+
+
+
