@@ -47,7 +47,7 @@ I'm **Naveen Sanjula**
 
 
 - 👀 Passionate about **Technology & Innovation**
-- 🌱 Currently learning **Golang**
+- 🌱 Currently learning **ASP.NET**
 - 👨‍💻 Explore all my work in [Repositories](https://github.com/naveensanjula975?tab=repositories)
 - ⚡ Fun fact — **I think I’m funny 😄**
 
