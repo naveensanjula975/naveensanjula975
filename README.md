@@ -10,11 +10,12 @@ I'm **Naveen Sanjula**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensanjula975&label=Profile%20views&color=0e75b6&style=flat" alt="naveensanjula975" /> </p>
 
 ## Skills and Experience
-🔴 <strong>Programming Languages</strong>
+🔴 **Programming Languages**
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
@@ -46,10 +47,11 @@ I'm **Naveen Sanjula**
 <!-- ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white) -->
 
 
-- 👀 Passionate about **Technology & Innovation**
-- 🌱 Currently learning **ASP.NET**
-- 👨‍💻 Explore all my work in [Repositories](https://github.com/naveensanjula975?tab=repositories)
-- ⚡ Fun fact — **I think I’m funny 😄**
+- 👀 Passionate about **Technology, Creativity & Innovation**
+- 🌱 Currently exploring **ASP.NET** and modern full-stack development
+- 👨‍💻 Check out my projects in the [Repositories](https://github.com/naveensanjula975?tab=repositories)
+- 🎧 Love **listening to music** while coding
+
 
 
 ### Languages and Tools I Love 💙
