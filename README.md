@@ -48,7 +48,7 @@ I'm **Naveen Sanjula**
 
 
 - 👀 Passionate about **Technology, Creativity & Innovation**
-- 🌱 Currently exploring **ASP.NET** and modern full-stack development
+- 🌱 Currently exploring **Flutter** and modern full-stack development
 - 👨‍💻 Check out my projects in the [Repositories](https://github.com/naveensanjula975?tab=repositories)
 - 🎧 Love **listening to music** while coding
 
