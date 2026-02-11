@@ -6,7 +6,7 @@ I'm **Naveen Sanjula**
 [![Twitter Follow](https://img.shields.io/twitter/follow/naveensanjula20?label=Follow)](https://twitter.com/intent/follow?screen_name=naveensanjula20)
 [![Linkedin: Naveen Sanjula](https://img.shields.io/badge/-Naveen_Sanjula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveensanjula/)](http://www.linkedin.com/in/naveensanjula/)
 ![GitHub followers](https://img.shields.io/github/followers/naveensanjula975?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://naveensanjula.netlify.app/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://naveensanjula.netlify.app/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensanjula975&label=Profile%20views&color=0e75b6&style=flat" alt="naveensanjula975" /> </p>
 
 ## Skills and Experience
